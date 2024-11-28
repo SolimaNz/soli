@@ -6,4 +6,4 @@ COPY soli.java .
 
 RUN javac soli.java
 
-CMD java soli 
+CMD java soli
